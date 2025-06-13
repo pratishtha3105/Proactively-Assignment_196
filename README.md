@@ -1,33 +1,39 @@
 # Proactively-Assignment_196
 
-Live Site: [https://proactively-196.netlify.app/](https://proactively-196.netlify.app/)
 
-Proactively is a modern, responsive, and elegantly designed web platform that highlights key features, user-oriented solutions, and a clean user interface. Built with a focus on performance and accessibility, this project demonstrates strong front-end development and design skills.
+**Live Site:** [https://proactively-196.netlify.app/](https://proactively-196.netlify.app/)
+
+Proactively is a modern, responsive, and elegantly designed single-page website showcasing clean UI, structured layout, and fast performance. It demonstrates front-end development best practices in a visually appealing format.
 
 ---
 
 ## 📌 Features
 
-- ⚡ Fast-loading, single-page design
-- 📱 Fully responsive for all device sizes
-- 🎨 Smooth UI with modern animations
-- 🧭 Intuitive layout and navigation
-- 🌍 Deployed using [Netlify](https://www.netlify.com/)
+- ⚡ Fast-loading and lightweight
+- 📱 Fully responsive design
+- ✨ Smooth user interface with transitions
+- 🧭 Easy-to-navigate sections
+- ☁️ Hosted on [Netlify](https://www.netlify.com/)
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS3** / **Tailwind CSS** (if used)
+- **CSS3**
 - **JavaScript**
-- **Netlify** for deployment
+- **[Netlify](https://www.netlify.com/)** for deployment
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+## 🚀 How to Run Locally
 
-```bash
-git clone https://github.com/yourusername/proactively.git
-cd proactively
-# Open index.html in your browser or use Live Server in VS Code
+You can run the project locally in two ways:
+
+### ✅ Option 1: Using Live Server Extension (VS Code)
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/proactively.git
+   cd proactively
